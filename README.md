@@ -6,3 +6,6 @@
 - Log4j used for Logging. 
 - Extent Reports used for a Reporting Results. 
 - Screenshots also capture and attached to Report with Base64 Conversion. 
+
+To Run first start Appium Server. 
+
