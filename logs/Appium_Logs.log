@@ -1,0 +1,202 @@
+[INFO ] 2022-10-08 07:52:06.130 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 07:52:06.132 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:52:06.132 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:52:06.147 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 07:52:14.204 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 07:52:14.204 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 07:54:29.558 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 07:54:29.559 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:54:29.560 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:54:29.576 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 07:54:32.342 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 07:54:32.343 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 07:54:33.477 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 07:54:33.478 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:54:33.478 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 07:54:33.478 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 07:54:35.503 [main] TC_Change_Dark_Mode - Getting Text Value for Comparison :	Off / Will never turn on automatically
+[INFO ] 2022-10-08 07:54:35.660 [main] TC_Change_Dark_Mode - Toggle button clicked, Button Name :	 Dark theme
+[INFO ] 2022-10-08 07:54:35.661 [main] TC_Change_Dark_Mode - Success Message :	 Dark Mode Activated Successfully
+[INFO ] 2022-10-08 07:54:38.970 [main] TC_Change_Dark_Mode - Getting Text Value for Comparison :	Off / Will never turn on automatically
+[INFO ] 2022-10-08 07:54:38.970 [main] TC_Change_Dark_Mode - Text Asserted, Actual Text is :	 Off / Will never turn on automatically
+[INFO ] 2022-10-08 07:54:38.970 [main] TC_Change_Dark_Mode - Method Executed: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 07:54:38.971 [main] TC_Change_Dark_Mode - Test Completed Successfully
+[INFO ] 2022-10-08 07:58:08.102 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 07:58:08.103 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:58:08.104 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:58:08.126 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 07:58:09.767 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 07:58:09.768 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 07:58:10.667 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 07:58:10.667 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:58:10.667 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 07:58:10.667 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 07:58:11.968 [main] TC_Change_Dark_Mode - Getting Text Value for Comparison :	On / Will never turn off automatically
+[INFO ] 2022-10-08 07:58:12.050 [main] TC_Change_Dark_Mode - Toggle button clicked, Button Name :	 Dark theme
+[INFO ] 2022-10-08 07:58:12.050 [main] TC_Change_Dark_Mode - Success Message :		 Dark Mode Deactivated Successfully
+[INFO ] 2022-10-08 07:58:14.137 [main] TC_Change_Dark_Mode - Getting Text Value for Comparison :	On / Will never turn off automatically
+[INFO ] 2022-10-08 07:58:14.138 [main] TC_Change_Dark_Mode - Text Asserted, Actual Text is :	 On / Will never turn off automatically
+[INFO ] 2022-10-08 07:58:14.138 [main] TC_Change_Dark_Mode - Method Executed: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 07:58:14.139 [main] TC_Change_Dark_Mode - Test Completed Successfully
+[INFO ] 2022-10-08 07:59:30.534 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 07:59:30.535 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:59:30.535 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:59:30.542 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 07:59:32.201 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 07:59:32.201 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 07:59:32.866 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 07:59:32.866 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 07:59:32.867 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 07:59:32.867 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 07:59:34.029 [main] TC_Change_Dark_Mode - Getting Text Value for Comparison :	Off / Will never turn on automatically
+[INFO ] 2022-10-08 07:59:34.096 [main] TC_Change_Dark_Mode - Toggle button clicked, Button Name :	 Dark theme
+[INFO ] 2022-10-08 07:59:34.097 [main] TC_Change_Dark_Mode - Success Message :	 Dark Mode Activated Successfully
+[INFO ] 2022-10-08 07:59:36.024 [main] TC_Change_Dark_Mode - Getting Text Value for Comparison :	Off / Will never turn on automatically
+[INFO ] 2022-10-08 07:59:36.024 [main] TC_Change_Dark_Mode - Text Asserted, Actual Text is :	 Off / Will never turn on automatically
+[INFO ] 2022-10-08 07:59:36.025 [main] TC_Change_Dark_Mode - Method Executed: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 07:59:36.025 [main] TC_Change_Dark_Mode - Test Completed Successfully
+[INFO ] 2022-10-08 08:00:36.267 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:00:36.272 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:00:36.272 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:00:36.280 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:02:06.552 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:02:06.553 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:02:06.554 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:02:06.568 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:02:07.896 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 08:02:07.896 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:02:08.435 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 08:02:08.435 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:02:08.436 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:02:08.436 [main] TC_Change_Dark_Mode - Method Executed: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:02:08.436 [main] TC_Change_Dark_Mode - Test Completed Successfully
+[INFO ] 2022-10-08 08:03:32.139 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:03:32.141 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:03:32.141 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:03:32.156 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:03:33.891 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 08:03:33.891 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:03:34.478 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 08:03:34.478 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:03:34.479 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:03:34.479 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:07:31.776 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:07:31.779 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:07:31.779 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:07:31.796 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:07:33.540 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 08:07:33.540 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:07:34.302 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 08:07:34.302 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:07:34.302 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:07:34.303 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:08:38.611 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:08:38.613 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:08:38.613 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:08:38.627 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:08:40.520 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 08:08:40.521 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:08:41.406 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 08:08:41.406 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:08:41.406 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:08:41.407 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:09:59.417 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:09:59.419 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:09:59.420 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:09:59.432 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:10:01.244 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 08:10:01.245 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:10:01.899 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 08:10:01.900 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:10:01.900 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:10:01.900 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:11:37.412 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:11:37.413 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:11:37.414 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:11:37.421 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:11:39.149 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 08:11:39.149 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:11:39.882 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 08:11:39.882 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:11:39.882 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:11:39.882 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:11:41.012 [main] TC_Change_Dark_Mode - Getting Text Value for Comparison :	On / Will never turn off automatically
+[INFO ] 2022-10-08 08:13:03.490 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:13:03.492 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:13:03.492 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:13:03.499 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:13:04.934 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 08:13:04.934 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:13:05.704 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 08:13:05.704 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:13:05.704 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:13:05.704 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:14:12.037 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:14:12.049 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:14:12.050 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:14:12.059 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:14:13.719 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 08:14:13.720 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:14:14.389 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 08:14:14.389 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:14:14.389 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:14:14.390 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:16:24.660 [main] TC_Change_Dark_Mode - 
+
+ 		 Test Started 
+
+[INFO ] 2022-10-08 08:16:24.661 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:16:24.661 [main] TC_Change_Dark_Mode - Executing Method: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:16:24.667 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:16:26.404 [main] TC_Change_Dark_Mode - Get Element Text value : Display
+[INFO ] 2022-10-08 08:16:26.405 [main] TC_Change_Dark_Mode - Wait till the DisplayOption element is clickable
+[INFO ] 2022-10-08 08:16:27.033 [main] TC_Change_Dark_Mode - Display Option Clicked
+[INFO ] 2022-10-08 08:16:27.033 [main] TC_Change_Dark_Mode - Method Executed: Validate_And_Click_Display_Option
+[INFO ] 2022-10-08 08:16:27.033 [main] TC_Change_Dark_Mode - Start to execute Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:16:27.034 [main] TC_Change_Dark_Mode - Executing Method: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:16:28.253 [main] TC_Change_Dark_Mode - Getting Text Value for Comparison :	Off / Will never turn on automatically
+[INFO ] 2022-10-08 08:16:28.342 [main] TC_Change_Dark_Mode - Toggle button clicked, Button Name :	 Dark theme
+[INFO ] 2022-10-08 08:16:28.343 [main] TC_Change_Dark_Mode - Success Message :	 Dark Mode Activated Successfully
+[INFO ] 2022-10-08 08:16:30.353 [main] TC_Change_Dark_Mode - Getting Text Value for Comparison :	Off / Will never turn on automatically
+[INFO ] 2022-10-08 08:16:30.353 [main] TC_Change_Dark_Mode - Text Asserted, Actual Text is :	 Off / Will never turn on automatically
+[INFO ] 2022-10-08 08:16:30.353 [main] TC_Change_Dark_Mode - Method Executed: Validate_State_And_Click_Theme_Button
+[INFO ] 2022-10-08 08:16:30.353 [main] TC_Change_Dark_Mode - Test Completed Successfully

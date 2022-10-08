@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suite" verbose="1">
+
+    <listeners>
+        <listener class-name="resources.Listeners"/>
+    </listeners>
+
+    <test name="Convert into Dark/Light Mode">
+        <classes>
+            <class name="TestCases.TC_Change_Dark_Mode"/>
+        </classes>
+    </test>
+
+</suite>
+
